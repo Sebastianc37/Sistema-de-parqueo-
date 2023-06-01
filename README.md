@@ -13,6 +13,16 @@ Tenemos una problemática Gracias a los avances en la globalización, muchos pa�
 Por lo tanto, es crucial desarrollar un sistema que brinde asistencia durante el proceso de estacionamiento, proporcionando alertas y garantizando la seguridad del usuario.
 La implementación de este sistema de seguridad en los aparcamientos de vehículos no solo proporciona una mayor tranquilidad y confianza al conductor durante las maniobras de estacionamiento, sino que también contribuye significativamente a la prevención de accidentes y daños en los vehículos y en su entorno. Este proyecto representa un avance importante en términos de tecnología aplicada a la seguridad vial, ofreciendo una solución innovadora y efectiva para mejorar la experiencia de estacionamiento y reducir los riesgos asociados.
 
+INDICACIONES:
+
+• Un led azul se enciende cuando la distancia es segura o mayor a 1 metro
+
+• Un led verde se enciende y el buzzer emite una alerta  cuando la distancia es  inferior a de 1 metro
+
+• Un led amarillo se enciende cuando y el buzzer emite otra alerta cuando la distancia es menor a 60 centímetros
+
+• Por último se enciende un led rojo y el buzzer emite una alerta máxima cuando la distancia detectada es menor a 30 centímetros
+
 CREDITOS:
 
 Estudiantes: 
