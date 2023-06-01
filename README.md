@@ -18,6 +18,7 @@ CREDITOS:
 Estudiantes: 
 
 • Miguel Angel Rendon Leon
+
 • Sebastián Fajardo Celis
 
 Contacto: Marlios.fajardoc@uqvirtual.edu.co
